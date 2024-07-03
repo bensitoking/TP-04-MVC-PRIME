@@ -6,18 +6,20 @@
     <div>
     <h1>OrtWorld</h1>
     <p>OrtWorld: Explora los rincones de la esfera.</p>
-    @if(ViewBag.Paquetes != null && ViewBag.Paquetes.Count > 0){
+    @if(ViewBag.Paquetes != null && ViewBag.Paquetes.Count > 0)
+    {
     <h2> Paquetes creados: </h2>
-    @foreach(KeyValuePair<string, Paquete> item in (Dictionary<string, Paquete>) ViewBag.Paquetes){
-    string destino= item.Key;
-    Paquete paquete= item.Value;
-    <ul>
-    <li> Destino: @destino </li>
-    <li> Hotel: @paquete.Hotel </li>
-    <li> Aereo: <img src= "~/img/@paquete.Aereo" > </li>
-    <li> Excursion: <img src= "~/img/@paquete.Excursion" > </li>
-    </ul>
-    }
+        @foreach(KeyValuePair<string, Paquete> item in (Dictionary<string, Paquete>) ViewBag.Paquetes)
+        {
+            string destino= item.Key;
+            Paquete paquete= item.Value;
+            <ul>
+            <li> Destino: @destino </li>
+            <li> Hotel: @paquete.Hotel </li>
+            <li> Aereo: <img src= "~/img/@paquete.Aereo" > </li>
+            <li> Excursion: <img src= "~/img/@paquete.Excursion" > </li>
+            </ul>
+        }
     } 
     else{
     <h2> No se han creado paquetes todavia. </h2>
