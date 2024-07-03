@@ -10,59 +10,100 @@ html {
 }
 
 body {
-  margin: 10px;
-  padding: 10px;
-  background-color: rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-header{
+header {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #2a2899;
+  color: #fff;
 }
-.Logo{
+
+header .Logo {
   width: 120px;
 }
-header ul{
-  display: flex;
-  align-items: center;
-}
-header ul{
+
+header ul {
   list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
 }
+
 header ul li {
   padding: 0 20px;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
 }
-header .menu li:hover {
- transform:scale(1.1);
-}
+
 header ul a {
-  font-size: 180%; color:rgb(255, 255, 255);
+  font-size: 1.2em;
+  color: #fff;
   text-decoration: none;
   display: flex;
-  align-items: center
+  align-items: center;
 }
-header .menu {
-  display: flex;
-  margin-left: 5%;
+
+header ul a:hover {
+  color: #ffc505;
 }
-header .menu li a:hover {
-  color:rgb(255, 197, 5);
+
+footer {
+  background-color: #2a2899;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: auto;
 }
-header, footer {
-  background-color: rgb(42, 40, 153);
-  color:rgb(255, 255, 255);
-}
-img{
-  width: 250px;
+
+img {
+  width: 100%;
+  max-width: 250px;
   height: auto;
 }
-body form p
-{
+
+body form {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+body form p {
   display: flex;
-  justify-content: flex-start;
-  flex-direction: row;
+  justify-content: flex-start; 
+  margin-bottom: 10px;
+}
+
+body form p label {
+  flex: 1;
+  margin-right: 10px;
+}
+
+body form p input,
+body form p select {
+  flex: 2;
+  padding: 8px;
+  font-size: 1em;
+}
+
+body form p input[type="submit"] {
+  background-color: #2a2899;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 1.1em;
+}
+
+body form p input[type="submit"]:hover {
+  background-color: #ffc505;
 }

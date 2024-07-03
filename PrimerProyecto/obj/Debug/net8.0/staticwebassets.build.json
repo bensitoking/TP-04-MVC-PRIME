@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VAodkFCUQw9svpMQqUGk0Dig/82VARw538IbrnGC/ww=",
+  "Hash": "tNBuUTJSI2pS4G0+nrFzjRmeTpP+Cs6eI8nosM91w7g=",
   "Source": "PrimerProyecto",
   "BasePath": "_content/PrimerProyecto",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PrimerProyecto\\wwwroot",
       "Source": "PrimerProyecto",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\css\\site.css",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\favicon.ico",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo1.png",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\aereo1.png",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/aereo1.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo1.png"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo2.png",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\aereo2.png",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/aereo2.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo2.png"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo3.png",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\aereo3.png",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/aereo3.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo3.png"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo4.png",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\aereo4.png",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/aereo4.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo4.png"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo5.png",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\aereo5.png",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/aereo5.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo5.png"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion1.jpg",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\excursion1.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/excursion1.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion2.jpg",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\excursion2.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/excursion2.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion3.jpg",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\excursion3.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/excursion3.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion4.jpg",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\excursion4.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/excursion4.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion5.jpg",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\excursion5.jpg",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/excursion5.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excursion5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\Logo.png",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\img\\Logo.png",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "img/Logo.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo.png"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\js\\site.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PrimerProyecto",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48591419\\Downloads\\TP-04-MVC-PRIME\\PrimerProyecto\\wwwroot\\",
       "BasePath": "_content/PrimerProyecto",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
