@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\Logo.png",
+      "PackagePath": "staticwebassets\\img\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo1.png",
+      "PackagePath": "staticwebassets\\img\\aereo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo2.png",
+      "PackagePath": "staticwebassets\\img\\aereo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo3.png",
+      "PackagePath": "staticwebassets\\img\\aereo3.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo4.png",
+      "PackagePath": "staticwebassets\\img\\aereo4.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\aereo5.png",
+      "PackagePath": "staticwebassets\\img\\aereo5.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion1.jpg",
+      "PackagePath": "staticwebassets\\img\\excursion1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion2.jpg",
+      "PackagePath": "staticwebassets\\img\\excursion2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion3.jpg",
+      "PackagePath": "staticwebassets\\img\\excursion3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion4.jpg",
+      "PackagePath": "staticwebassets\\img\\excursion4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\img\\excursion5.jpg",
+      "PackagePath": "staticwebassets\\img\\excursion5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Tomas\\OneDrive\\Documentos\\tomy tareas\\4to año\\prog\\2do\\TP 4 Paquete Turistico\\PrimerProyecto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrimerProyecto.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PrimerProyecto.props",
+      "PackagePath": "build\\PrimerProyecto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PrimerProyecto.props",
+      "PackagePath": "buildMultiTargeting\\PrimerProyecto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PrimerProyecto.props",
+      "PackagePath": "buildTransitive\\PrimerProyecto.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
