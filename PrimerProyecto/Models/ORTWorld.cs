@@ -9,7 +9,7 @@ public static class ORTWorld
 public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
 {
     bool exito = false;
-    if (ListaDestinos.Contains(destinoSeleccionado))
+    if (!Paquetes.Keys.Contains(destinoSeleccionado))
     {
         Paquetes.Add(destinoSeleccionado, paquete);
         exito = true;
