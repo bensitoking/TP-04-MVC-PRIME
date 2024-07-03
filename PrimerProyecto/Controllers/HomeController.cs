@@ -62,12 +62,12 @@ public class HomeController : Controller
             exito = ORTWorld.IngresarPaquete(ORTWorld.ListaDestinos[Destino-1], NuevoPaquete);
             if(exito)
             {
-                ViewBag.creacionPaquete = "Se logro crear el paquete";
+                return RedirectToAction("Index");
             }
             else{
-                ViewBag.creacionPaquete = "No se logro crear el paquete";
+                return RedirectToAction("SelectPaquete", new { error = "Error, ingrese nuevamente" });
             }
-            return RedirectToAction("Index");
+            
         }
         else
         {
